@@ -10,7 +10,6 @@
   <name>sbi</name>
   <url>http://maven.apache.org</url>
   
-  <echo>this is srinu</echo>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
